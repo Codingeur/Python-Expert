@@ -1,3 +1,5 @@
+""" Les motifs de création sont utiles pour créer une multitude d'objet compléxe se ressemblant  """
+
 import abc """ Import module pour pouvoir generer des classe abstraite """
 
 class Produit:
