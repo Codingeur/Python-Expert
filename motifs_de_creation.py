@@ -1,4 +1,4 @@
-import abc
+import abc """ Import module pour pouvoir generer des classe abstraite """
 
 class Produit:
     @property
@@ -67,3 +67,5 @@ directeur = Directeur()
 directeur.monteur = MonteurSphereRouge()
 produit = directeur.concevoirProduit()
 print(produit)
+
+
